@@ -2,6 +2,5 @@
 \
 🌱 I’m currently learning Machine Learning and Artificial Intelligence methods using TensorFlow. I currently have skills in R, Python, and HTML. \
 \
-I’m looking to gain skills through practical applications of machine learning and artificial intelligence.\
-
+I’m looking to gain skills through practical applications of machine learning and artificial intelligence.
 
